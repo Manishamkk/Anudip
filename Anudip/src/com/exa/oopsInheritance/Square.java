@@ -1,4 +1,4 @@
-package com.exa.oops1;
+package com.exa.oopsInheritance;
 
 public class Square extends Triangle
 {
