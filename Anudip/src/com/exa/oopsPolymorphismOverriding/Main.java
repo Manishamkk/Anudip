@@ -12,6 +12,7 @@ public class Main {
 		a2.sound();
 		a3.sound();
 		
+		
 	}
 
 }
